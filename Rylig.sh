@@ -1,14 +1,15 @@
 #!/bin/sh
 #
-# Rylig v1.02
+# Rylig v1.03
 # by Rytia
 # Blog : www.zzfly.net
 #  2014. 9. 6
 #  2015. 7. 10
+# 2017.2.2
 clear
 echo ""
 echo "    -----------------------------------------"
-echo "    |        Welcome to use Rylig v1.02     |"
+echo "    |        Welcome to use Rylig v1.03     |"
 echo "    |  LLMP Linux + Lighttpd + MySQL + PHP  |"
 echo "    -----------------------------------------"
 echo ""
